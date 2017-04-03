@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Theme>
+<Coding>
+<pref name="Code Editor Keywords Color" color="D3368200" />
+<pref name="Code Editor Strings Color" color="CB4B1600" />
+<pref name="Code Editor Numbers Color" color="DC322F00" />
+<pref name="Code Editor Floating Point Numbers Color" color="DC322F00" />
+<pref name="Code Editor Source Code Color" color="93A1A100" />
+<pref name="Code Editor Comments Color" color="657B8300" />
+<pref name="Code Editor Autocomplete Color" color="B5890000" />
+<pref name="Code Editor Background" color="002B3600" />
+<pref name="Code Editor Cursor Color" color="EEE8D500" />
+<pref name="Matched Indent Brace Color" color="268BD200" />
+<pref name="Unmatched Indent Brace Color" color="85990000" />
+<pref name="Debugger Highlight Color" color="EEE8D500" />
+<pref name="Code Editor URL Color" color="93A1A100" />
+<pref name="Code Font" font="Menlo" />
+<pref name="Code Font Size" size="11" />
+</Coding>
+</Theme>
