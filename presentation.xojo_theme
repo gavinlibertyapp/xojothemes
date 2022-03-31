@@ -16,5 +16,7 @@
 <pref name="Code Editor URL Color" color="0000FF00" />
 <pref name="Code Font" font="Menlo" />
 <pref name="Code Font Size" size="28" />
+<pref name="Code Editor Text Highlight Color" color="C9E4B500" />
+<pref name="Code Editor Inactive Text Highlight Color" color="D3D3D300" />
 </Coding>
 </Theme>
