@@ -5,5 +5,5 @@ The Xojo IDE allows you to change the colors and font of the code editor in grou
 
 I recommend the Solarized Dark and Sunset themes to get you started.
 
-These themes are compatible with both the Xojo IDE itself and with the confusingly-named XojoThemes (not currently open-sourced but free of cost) which may be of use to you if you change themes regularly. XojoThemes can be downloaded at http://www.libertyapp.com/xojothemes/
+These themes are compatible with both the Xojo IDE itself and with the XojoThemes app, which may be of use to you if you change themes regularly. XojoThemes can be downloaded from https://www.libertyapp.com/xojothemes/XojoThemes.zip
 
